@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+<PropertyGroup>
+  <OutputType>Exe</OutputType>
+  <TargetFramework>net8.0</TargetFramework>
+  <RuntimeIdentifier>linux-x64</RuntimeIdentifier>
+  <PublishReadyToRun>true</PublishReadyToRun>
+  <PublishTrimmed>false</PublishTrimmed>
+  <EnableCompressionInSingleFile>false</EnableCompressionInSingleFile>
+  <ImplicitUsings>enable</ImplicitUsings>
+</PropertyGroup>
+</Project>
